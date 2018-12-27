@@ -1,6 +1,6 @@
 ---
 topic: sample
-name: 'My Sample'
+name: 'My Sample for Kate'
 description: The Sample that shows how to use .NET Core
 statusNotificationTargets:
 - katia_bieliatko1@mail.ru
