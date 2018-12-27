@@ -13,7 +13,7 @@ authors:
 azureDeploy: https://azuretemplate.bing.com/deployments/deploy.json
 languages:
 - csharp
-technologies:
+products:
 - advanced-threat-analytics
 extensions:
 - officeDevId: 3bb16609-f17e-4f5c-8a01-16db13c7c98c
