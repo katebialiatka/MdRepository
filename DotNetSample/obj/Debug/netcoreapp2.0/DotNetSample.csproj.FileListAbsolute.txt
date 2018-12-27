@@ -1,0 +1,9 @@
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\bin\Debug\netcoreapp2.0\DotNetSample.deps.json
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\bin\Debug\netcoreapp2.0\DotNetSample.dll
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\bin\Debug\netcoreapp2.0\DotNetSample.pdb
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\obj\Debug\netcoreapp2.0\DotNetSample.csprojAssemblyReference.cache
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\obj\Debug\netcoreapp2.0\DotNetSample.csproj.CoreCompileInputs.cache
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\obj\Debug\netcoreapp2.0\DotNetSample.AssemblyInfoInputs.cache
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\obj\Debug\netcoreapp2.0\DotNetSample.AssemblyInfo.cs
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\obj\Debug\netcoreapp2.0\DotNetSample.dll
+C:\_Projects\TestRepository2\DotNetSample\DotNetSample\obj\Debug\netcoreapp2.0\DotNetSample.pdb
