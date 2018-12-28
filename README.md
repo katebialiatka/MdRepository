@@ -11,8 +11,7 @@ authors:
 - displayName: Fedia
   id: test1
 azureDeploy: https://azuretemplate.bing.com/deployments/deploy.json
-languages:
-- csharp
+
 products:
 - advanced-threat-analytics
 extensions:
