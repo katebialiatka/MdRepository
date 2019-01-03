@@ -1,6 +1,6 @@
 ---
 topic: sample
-
+name: 'My Sample'
 description: The Sample that shows how to use .NET Core
 statusNotificationTargets:
 - katia_bieliatko1@mail.ru
@@ -11,7 +11,8 @@ authors:
 - displayName: Fedia
   id: test1
 azureDeploy: https://azuretemplate.bing.com/deployments/deploy.json
-
+languages:
+- csharp
 products:
 - advanced-threat-analytics
 extensions:
