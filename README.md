@@ -1,7 +1,7 @@
 ---
 topic: sample
 name: 'My Sample'
-description: The Sample that shows how to use .NET Core
+
 statusNotificationTargets:
 - katia_bieliatko1@mail.ru
 urlFragment: urlFragmentKate
@@ -18,8 +18,18 @@ products:
 extensions:
 - officeDevId: 3bb16609-f17e-4f5c-8a01-16db13c7c98c
 ---
-# h1
+# h1 heading value
+just adding some text to test 150 symbols lenght for `Description` value.
+
 Hey folks, there is an awesome sample that I want to share...
+
+bla-bla string
+bla-bla string
+bla-bla string
+bla-bla string
+bla-bla string
+bla-bla string
+bla-bla string
 
 dddddfff3
 4
